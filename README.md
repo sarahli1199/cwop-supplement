@@ -2,11 +2,12 @@
 
 Supplementary material for **Controlling Creator Exposure under Recommendation Feedback** by Wenjing Li, Jiang Rong, Zhenzhe Zheng, and Fan Wu.
 
-## Download
+## Read and download
 
-[**Download the supplementary material (ZIP)**](ICDE_CWOP_Supplement.zip?raw=true)
+- [**Read the supplementary document (PDF)**](ICDE_CWOP_Supplement.pdf)
+- [**Download the complete supplementary material (ZIP)**](ICDE_CWOP_Supplement.zip?raw=true)
 
-The ZIP contains the supporting PDF, its LaTeX source, and the computational artifact.
+The PDF can be viewed directly on GitHub. The ZIP contains the supporting PDF, its LaTeX source, and the computational artifact.
 
 ## Package contents
 
